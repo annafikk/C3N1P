@@ -2,7 +2,7 @@
 ### I'm an Information Technology Science Student :sparkles:
 ### My life motto is "Be a good person" :two_hearts:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=annafikk&show_icons=true&theme=radical)
 
 <!--
 **C3N1P/C3N1P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
