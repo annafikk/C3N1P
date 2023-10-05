@@ -3,6 +3,7 @@
 ### My life motto is "Be a good person" :two_hearts:
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=annafikk&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annafikk&layout=donut)](https://github.com/annafikk)
 
 <!--
 **C3N1P/C3N1P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
