@@ -7,7 +7,7 @@
 <br>
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=annafikk&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annafikk&layout=donut)](https://github.com/annafikk)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annafikk&layout=donut)](https://github.com/annafikk)
 </a> </p>
 
 - 🔭 I’m currently working on [SiPember](https://github.com/annafikk/sipember.github.io.git)
