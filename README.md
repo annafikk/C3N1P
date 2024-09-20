@@ -24,7 +24,7 @@ Let's build something great together!
             <tr>
                 <td style="border: 1px solid #ddd; padding: 10px;"><strong>Latest Project</strong></td>
                 <td style="border: 1px solid #ddd; padding: 10px;">A community website for Padukuhan Gubug</td>
-                <td style="border: 1px solid #ddd; padding: 10px;"><a href="https://github.com/annafikk/sowangubug" target="_blank">sowangubug</a></td>
+                <td style="border: 1px solid #ddd; padding: 10px;"><a href="https://sowangubug.com" target="_blank">sowangubug</a></td>
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 10px;"><strong>Collaboration</strong></td>
